@@ -120,7 +120,7 @@ const questions = [
             '19',
             '21',
             '22',
-            '25',
+            '24',
         ],
         rightAnswer: 0,
         img: '<img src="images/img4.jpg">'
