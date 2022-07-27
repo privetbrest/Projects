@@ -134,7 +134,7 @@ const questions = [
             'Сан Сиро',
         ],
         rightAnswer: 3,
-        img: '<img src="images/img4.jpg">'
+        img: '<img src="images/img5.jpg">'
     }
 
 ]
