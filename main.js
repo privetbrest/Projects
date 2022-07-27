@@ -79,7 +79,7 @@ const questions = [
             'Жозе Моуринью',
         ],
         rightAnswer: 1,
-        img: '<img src="images/img4.jpg">'
+        img: '<img src="images/img5.jpg">'
     },
     {
         question: 'Лучший бомбардир Интера за всю историю клуба',
@@ -90,7 +90,7 @@ const questions = [
             'Ромело Лукаку',
         ],
         rightAnswer: 2,
-        img: '<img src="images/img4.jpg">'
+        img: '<img src="images/img6.jpg">'
     },
     {
         question: 'Игрок, сигравший рекордное количество матчей за Интер',
@@ -101,7 +101,7 @@ const questions = [
             'Марко Матерацци',
         ],
         rightAnswer: 0,
-        img: '<img src="images/img4.jpg">'
+        img: '<img src="images/img7.jpg">'
     },
     {
         question: 'Количество побед Интера в Лиге Чемпионов',
@@ -112,7 +112,7 @@ const questions = [
             '4',
         ],
         rightAnswer: 2,
-        img: '<img src="images/img4.jpg">'
+        img: '<img src="images/img8.jpg">'
     },
     {
         question: 'Количество побед Интера в Чемпионате Италии',
@@ -123,7 +123,7 @@ const questions = [
             '24',
         ],
         rightAnswer: 0,
-        img: '<img src="images/img4.jpg">'
+        img: '<img src="images/img9.jpg">'
     },
     {
         question: 'Стадион, на котором Интер проводит домашние матчи',
@@ -134,7 +134,7 @@ const questions = [
             'Сан Сиро',
         ],
         rightAnswer: 3,
-        img: '<img src="images/img5.jpg">'
+        img: '<img src="images/img10.jpg">'
     }
 
 ]
